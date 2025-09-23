@@ -9,7 +9,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=gsalviete&show_icons=true&theme=radical)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gsalviete&layout=compact&theme=radical)
 
