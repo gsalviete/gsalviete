@@ -10,8 +10,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=gsalviete&show_icons=true&theme=radical&cache_seconds=7200)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gsalviete&layout=compact&theme=radical&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats-gsalviete.vercel.app/api?username=gsalviete&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-gsalviete.vercel.app/api/top-langs/?username=gsalviete&layout=compact&theme=radical)
 
 
 ---
