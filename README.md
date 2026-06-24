@@ -11,8 +11,7 @@
 
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsalviete&show_icons=true&theme=dark)](https://github.com/gsalviete/github-readme-stats)
-![Top Langs](https://github-readme-stats-gsalviete.vercel.app/api/top-langs/?username=gsalviete&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsalviete)](https://github.com/gsalviete/github-readme-stats)
 
 ---
 
