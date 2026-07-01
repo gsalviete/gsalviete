@@ -10,9 +10,9 @@
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsalviete&show_icons=true&theme=dark)](https://github.com/gsalviete/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gsalviete&show_icons=true&theme=dark)](https://github.com/gsalviete/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsalviete&show_icons=true&theme=dark)](https://github.com/gsalviete/github-readme-stats)
+[![Top Langs](https://github-stats-extended.app/api/top-langs/?username=gsalviete&show_icons=true&theme=dark)](https://github.com/gsalviete/github-readme-stats)
 
 ---
 
