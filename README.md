@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img
     height="180"
     src="https://github-stats-extended.vercel.app/api?username=gsalviete&show_icons=true&theme=dark"
