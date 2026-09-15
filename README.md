@@ -10,16 +10,17 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img
-    width="49%"
+    height="180"
     src="https://github-stats-extended.vercel.app/api?username=gsalviete&show_icons=true&theme=dark"
-    alt="GitHub Stats"
+    alt="Gabriel Salviete's GitHub Stats"
   />
   <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gsalviete&show_icons=true&theme=dark"
-    alt="Top Languages"
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gsalviete&show_icons=true&theme=dark&layout=compact"
+    alt="Most Used Languages"
   />
 </p>
 
